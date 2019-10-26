@@ -11,6 +11,7 @@ psycopg2 = "*"
 alembic = "*"
 flask = "*"
 sqlalchemy = "*"
+waitress = "*"
 
 [requires]
 python_version = "3.6"
