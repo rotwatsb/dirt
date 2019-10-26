@@ -10,6 +10,7 @@ config2 = "*"
 psycopg2 = "*"
 alembic = "*"
 flask = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.6"
