@@ -36,10 +36,6 @@ db_connection_url = '%s://%s:%s@%s:%s/%s'%(
     config2['database']['name'],
 )
 
-print('################################################################')
-print(db_connection_url)
-
-
 def run_migrations_offline():
     """Run migrations in 'offline' mode.
 
