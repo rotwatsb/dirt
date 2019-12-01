@@ -1,0 +1,7 @@
+port: 6000
+domain: 'localhost'
+database:
+  driver: 'postgres+psycopg2'
+  name: 'nut'
+  domain: 'localhost'
+  port: 5432
